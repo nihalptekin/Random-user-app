@@ -10,6 +10,8 @@ border-radius: 30px;
 display: flex;
 justify-content: center;
 text-align: center;
+box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 0 15px rgba(124, 102, 224, 0.8);
+background: linear-gradient(to outside, #ff0000, #00ff00)
 
 }
 
@@ -28,7 +30,7 @@ button{
     border-radius: 30px;
     background-color: gold;
   
-    margin-top: 2rem;
+    margin-top: 1rem;
  
 }
 
